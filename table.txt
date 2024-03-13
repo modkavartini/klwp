@@ -17,8 +17,8 @@
         "mechanics",
         "lunch break... biriyani?",
         "civil",
-        "cp lab D",
-        "cp lab D",
+        "cp lab :D",
+        "cp lab :D",
         "good evening."
     ]
 }
