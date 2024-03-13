@@ -1,14 +1,12 @@
 {
-"upcoming":
+"wed":
 [
-"silver",
-"gold",
-"giant",
-"platinum",
-"silver",
-"gold",
-"silver",
-"silver",
-"silver"
+"chemistry",
+"mathematics",
+"chemistry",
+"lunch break",
+"mechanics",
+"mechanics",
+"mechanical"
 ]
 }
