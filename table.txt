@@ -9,7 +9,6 @@
         "mechanics",
         "mechanical",
         "good evening.",
-        "..."
     ],
     "Thu": [
         "good morning!",
@@ -21,6 +20,5 @@
         "cp lab :D",
         "cp lab :D",
         "good evening.",
-        "..."
     ]
 }
