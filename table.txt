@@ -1,6 +1,7 @@
 {
 "wed":
 [
+"have a good day!"
 "chemistry",
 "mathematics",
 "chemistry",
