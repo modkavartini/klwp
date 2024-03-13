@@ -11,7 +11,7 @@
 "mechanics",
 "mechanical",
 "good evening."
-]
+],
 
 "Thu":
 [
