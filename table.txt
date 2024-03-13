@@ -1,6 +1,6 @@
 {
     "Wed": [
-        "good morning!",
+        "good morning! i know you didn't want to wake up.",
         "chemistry",
         "mathematics",
         "chemistry",
@@ -8,10 +8,10 @@
         "mechanics",
         "mechanics",
         "mechanical",
-        "good evening."
+        "good evening. you're halfway through the week!"
     ],
     "Thu": [
-        "good morning!",
+        "good morning! it's a good day!",
         "professional comms",
         "chemistry",
         "mechanics",
@@ -19,6 +19,6 @@
         "civil",
         "cp lab :D",
         "cp lab :D",
-        "good evening."
+        "good evening. just one more day until the weekend."
     ]
 }
