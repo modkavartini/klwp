@@ -19,6 +19,6 @@
         "civil",
         "cp lab :D",
         "cp lab :D",
-        "good evening. just one more day until the weekend."
+        "good evening. just one more day till the weekend."
     ]
 }
