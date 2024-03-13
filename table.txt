@@ -2,7 +2,7 @@
 
 "wed":
 [
-"good morning!"
+"good morning!",
 "chemistry",
 "mathematics",
 "chemistry",
@@ -15,14 +15,14 @@
 
 "Thu":
 [
-"good morning!"
-"professional comms"
-"chemistry"
-"mechanics"
-"lunch break (biriyani?)"
-"civil"
-"cp lab :D"
-"cp lab :D"
+"good morning!",
+"professional comms",
+"chemistry",
+"mechanics",
+"lunch break (biriyani?)",
+"civil",
+"cp lab :D",
+"cp lab :D",
 "good evening."
 ]
 
