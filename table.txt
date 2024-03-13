@@ -11,7 +11,7 @@
         "good evening. you're halfway through the week!"
     ],
     "Thu": [
-        "good morning! it's a good day!",
+        "good morning! come on just two more days!",
         "professional comms",
         "chemistry",
         "mechanics",
