@@ -1,29 +1,24 @@
 {
-
-"wed":
-[
-"good morning!",
-"chemistry",
-"mathematics",
-"chemistry",
-"lunch break",
-"mechanics",
-"mechanics",
-"mechanical",
-"good evening."
-],
-
-"Thu":
-[
-"good morning!",
-"professional comms",
-"chemistry",
-"mechanics",
-"lunch break... biriyani?",
-"civil",
-"cp lab :D",
-"cp lab :D",
-"good evening."
-]
-
+    "wed": [
+        "good morning!",
+        "chemistry",
+        "mathematics",
+        "chemistry",
+        "lunch break",
+        "mechanics",
+        "mechanics",
+        "mechanical",
+        "good evening."
+    ],
+    "Thu": [
+        "good morning!",
+        "professional comms",
+        "chemistry",
+        "mechanics",
+        "lunch break... biriyani?",
+        "civil",
+        "cp lab D",
+        "cp lab D",
+        "good evening."
+    ]
 }
