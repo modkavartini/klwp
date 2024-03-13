@@ -1,7 +1,8 @@
 {
+
 "wed":
 [
-"have a good day!"
+"good morning!"
 "chemistry",
 "mathematics",
 "chemistry",
@@ -9,5 +10,20 @@
 "mechanics",
 "mechanics",
 "mechanical"
+"good evening."
 ]
+
+"Thu":
+[
+"good morning!"
+"professional comms"
+"chemistry"
+"mechanics"
+"lunch break (biriyani?)"
+"civil"
+"cp lab :D"
+"cp lab :D"
+"good evening."
+]
+
 }
