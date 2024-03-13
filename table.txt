@@ -1,5 +1,5 @@
 {
-    "wed": [
+    "Wed": [
         "good morning!",
         "chemistry",
         "mathematics",
