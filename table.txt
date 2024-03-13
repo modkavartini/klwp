@@ -1,9 +1,13 @@
 {
-  "p900": "CYT 100 RKG",
-  "p1000": "MAT 102 JS",
-  "p1105": "HUN 102 LM",
-  "p1300": "EST 100 ASK",
-  "p1400": "EST 100 ASK"
-  "p1505": "EST 120 BME SS",
-  "ptest": "hi this is parsed"
-}
+"upcoming":
+[
+"silver",
+"gold",
+"giant",
+"platinum",
+"silver",
+"gold",
+"silver",
+"silver",
+"silver"
+]
