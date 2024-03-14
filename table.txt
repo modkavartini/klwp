@@ -12,7 +12,7 @@
     ],
     "Thu": [
         "good morning!",
-        "professional comms",
+        "pro comms",
         "chemistry",
         "mechanics",
         "lunch break... biriyani?",
