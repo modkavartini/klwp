@@ -15,7 +15,7 @@
         "pro comms",
         "chemistry",
         "mechanics",
-        "lunch break... biriyani?",
+        "biriyani?",
         "civil",
         "cp lab :D",
         "cp lab :D",
