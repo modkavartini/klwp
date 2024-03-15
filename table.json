@@ -2,7 +2,7 @@
     "Wed": [
         "good morning!",
         "chemistry",
-        "mathematics",
+        "maths",
         "chemistry",
         "lunch break",
         "mechanics",
@@ -20,5 +20,15 @@
         "cp lab :D",
         "cp lab :D",
         "good evening."
-    ]
+    ],
+    "Fri": [
+        "good morning!",
+        "pro comms",
+        "cp :D",
+        "cp :D",
+        "lunch break",
+        "lunch break",
+        "maths",
+        "chemistry",
+        "good evening."
 }
