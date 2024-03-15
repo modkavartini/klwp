@@ -54,5 +54,10 @@
         "chemistry",
         "good evening."
     ],
-    "Sat": "test phrase"
+    "Sat": [
+        "it's your free day!... or is it?"
+    ],
+    "Sun": [
+        "eat, sleep, repeat."
+    ]
 }
