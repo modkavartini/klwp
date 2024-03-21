@@ -1,0 +1,63 @@
+{
+    "Mon": [
+        "good morning!",
+        "c prog :D",
+        "pro comms",
+        "pro comms",
+        "lunch break",
+        "mechanics",
+        "mechanics",
+        "chemistry",
+        "good evening."
+    ],
+    "Tue": [
+        "good morning!",
+        "chemistry",
+        "cp lab :D",
+        "cp lab :D",
+        "lunch break",
+        "mechanical",
+        "civil",
+        "pro comms",
+        "good evening."
+    ],
+    "Wed": [
+        "good morning!",
+        "mechanics",
+        "mechanics",
+        "maths",
+        "lunch break",
+        "c prog :D",
+        "chemistry",
+        "chemistry",
+        "good evening."
+    ],
+    "Thu": [
+        "good morning!",
+        "maths",
+        "maths",
+        "chemistry",
+        "biriyani?",
+        "pro comms",
+        "BCE/BME ws",
+        "BCE/BME ws",
+        "good evening."
+    ],
+    "Fri": [
+        "good morning!",
+        "chemistry",
+        "mechanical",
+        "civil",
+        "lunch break",
+        "c prog :D",
+        "mechanics",
+        "maths",
+        "good evening."
+    ],
+    "Sat": [
+        "it's a free day!... or is it?"
+    ],
+    "Sun": [
+        "eat, sleep, repeat."
+    ]
+}
