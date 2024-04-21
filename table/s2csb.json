@@ -1,6 +1,39 @@
 {
     "Mon": [
         "good morning!",
+        "chem exam!",
+        "chem exam!",
+        "study break",
+        "lunch break",
+        "study break",
+        "mech exam!",
+        "mech exam!",
+        "good evening."
+    ],
+    "Tue": [
+        "good morning!",
+        "bcme exam!",
+        "bcme exam!",
+        "study break",
+        "lunch break",
+        "study break",
+        "cprog exam!",
+        "cprog exam!",
+        "good evening."
+    ],
+    "Fri": [
+        "good morning!",
+        "maths exam!",
+        "maths exam!",
+        "study break",
+        "lunch break",
+        "study break",
+        "profc exam!",
+        "profc exam!",
+        "good evening."
+    ],
+    "Series2": [
+        "good morning!",
         "chemistry",
         "mechanics",
         "mechanics",
@@ -10,7 +43,7 @@
         "maths",
         "good evening."
     ],
-    "Tue": [
+    "Series3": [
         "good morning!",
         "pro comms",
         "pro comms",
@@ -43,7 +76,7 @@
         "cp lab :D",
         "good evening."
     ],
-    "Fri": [
+    "Series1": [
         "good morning!",
         "pro comms",
         "c prog :D",
