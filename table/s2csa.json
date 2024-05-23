@@ -1,5 +1,4 @@
 {
-
     "Series2": [
         "good morning!",
         "chem exam!",
@@ -35,63 +34,63 @@
     ],
     "Mon": [
         "good morning!",
-        "c prog :D",
-        "pro comms",
-        "pro comms",
-        "lunch break",
-        "mechanics",
-        "mechanics",
-        "chemistry",
+        "poyi",
+        "vellom",
+        "eduth",
+        "vech",
+        "padikk",
+        "eda",
+        "mone",
         "good evening."
     ],
     "Tue": [
         "good morning!",
-        "chemistry",
-        "cp lab :D",
-        "cp lab :D",
-        "lunch break",
-        "mechanical",
-        "civil",
-        "pro comms",
+        "poyi",
+        "vellom",
+        "eduth",
+        "vech",
+        "padikk",
+        "eda",
+        "mone",
         "good evening."
     ],
     "Wed": [
         "good morning!",
-        "mechanics",
-        "mechanics",
-        "maths",
-        "lunch break",
-        "c prog :D",
-        "chemistry",
-        "chemistry",
+        "poyi",
+        "vellom",
+        "eduth",
+        "vech",
+        "padikk",
+        "eda",
+        "mone",
         "good evening."
     ],
     "Thu": [
         "good morning!",
-        "maths",
-        "maths",
-        "chemistry",
-        "biriyani?",
-        "pro comms",
-        "BCE/BME ws",
-        "BCE/BME ws",
+        "poyi",
+        "vellom",
+        "eduth",
+        "vech",
+        "padikk",
+        "eda",
+        "mone",
         "good evening."
     ],
     "Fri": [
         "good morning!",
-        "chemistry",
-        "mechanical",
-        "civil",
-        "lunch break",
-        "c prog :D",
-        "mechanics",
-        "maths",
+        "poyi",
+        "vellom",
+        "eduth",
+        "vech",
+        "padikk",
+        "eda",
+        "mone",
         "good evening."
     ],
     "Sat": [
-        "it's a free day!... or is it?"
+        "it's a free day!... nope, poyi padikkeda"
     ],
     "Sun": [
-        "eat, sleep, repeat."
+        "eat, study, repeat."
     ]
 }
