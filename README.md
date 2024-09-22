@@ -2,8 +2,10 @@
 repo for my custom klwp themes, also hosts assets used by them.
 
 ## amarena
-![Screenshot_20230706_152846_bitpit launcher](https://github.com/modkavartini/klwp/assets/81793953/d832b7fe-f7d2-4d69-82e3-6ca386c34d86)
-![Screenshot_20230706_153010_bitpit launcher](https://github.com/modkavartini/klwp/assets/81793953/323b3d53-3ce6-45ef-adbe-4627ae520729)
+![1](https://github.com/user-attachments/assets/ffc85a79-ea2b-4d87-bd85-d395455fd3df)
+![2](https://github.com/user-attachments/assets/3be707c3-36cb-4c4a-b4fb-af9b80123335)
+![3](https://github.com/user-attachments/assets/f829773b-2c26-45b3-b8f5-28c187ab6671)
+
 
 ### walls
 ![1](https://raw.githubusercontent.com/modkavartini/klwp/main/walls/1.jpg)
