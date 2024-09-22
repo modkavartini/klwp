@@ -1,46 +1,13 @@
 {
-    "Series2": [
-        "good morning!",
-        "chem exam!",
-        "chem exam!",
-        "study break",
-        "lunch break",
-        "study break",
-        "mech exam!",
-        "mech exam!",
-        "good evening."
-    ],
-    "Series3": [
-        "good morning!",
-        "bcme exam!",
-        "bcme exam!",
-        "study break",
-        "lunch break",
-        "study break",
-        "cprog exam!",
-        "cprog exam!",
-        "good evening."
-    ],
-    "Series1": [
-        "good morning!",
-        "maths exam!",
-        "maths exam!",
-        "study break",
-        "lunch break",
-        "study break",
-        "profc exam!",
-        "profc exam!",
-        "good evening."
-    ],
     "Mon": [
         "good morning!",
-        "poyi",
-        "vellom",
-        "eduth",
-        "vech",
-        "padikk",
-        "eda",
-        "mone",
+        "first period",
+        "second period",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
         "good evening."
     ],
     "Tue": [
