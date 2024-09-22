@@ -9,51 +9,39 @@
         "MAT"
     ],
     "Tue": [
-        "poyi",
-        "vellom",
-        "eduth",
-        "vech",
-        "padikk",
-        "eda",
-        "mone"
+        "PE",
+        "MAT",
+        "LSD",
+        "~",
+        "DS",
+        "OOP",
+        "LAB"
     ],
     "Wed": [
-        "good morning!",
-        "poyi",
-        "vellom",
-        "eduth",
-        "vech",
-        "padikk",
-        "eda",
-        "mone",
-        "good evening."
+        "LSD",
+        "MAT",
+        "DS",
+        "~",
+        "OOP",
+        "SE",
+        "OOP"
     ],
     "Thu": [
-        "good morning!",
-        "poyi",
-        "vellom",
-        "eduth",
-        "vech",
-        "padikk",
-        "eda",
-        "mone",
-        "good evening."
+        "DS",
+        "LSD",
+        "OOP",
+        "~",
+        "PE",
+        "MNR",
+        "RMD"
     ],
     "Fri": [
-        "good morning!",
-        "poyi",
-        "vellom",
-        "eduth",
-        "vech",
-        "padikk",
-        "eda",
-        "mone",
-        "good evening."
-    ],
-    "Sat": [
-        "it's a free day!... nope, poyi padikkeda"
-    ],
-    "Sun": [
-        "eat, study, repeat."
+        "LSD",
+        "OOP",
+        "DS",
+        "~",
+        "MAT",
+        "MNR",
+        "RMD"
     ]
 }
