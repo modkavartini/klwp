@@ -6,11 +6,11 @@
         "~",
         "SE",
         "DS",
-        "MAT"
+        "DMS"
     ],
     "Tue": [
         "PE",
-        "MAT",
+        "DMS",
         "LSD",
         "~",
         "DS",
@@ -19,7 +19,7 @@
     ],
     "Wed": [
         "LSD",
-        "MAT",
+        "DMS",
         "DS",
         "~",
         "OOP",
@@ -40,7 +40,7 @@
         "OOP",
         "DS",
         "~",
-        "MAT",
+        "DMS",
         "MNR",
         "RMD"
     ]
