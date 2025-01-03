@@ -1,37 +1,37 @@
 {
     "Mon": [
-        "DS",
-        "OOP",
-        "LAB",
+        "DE",
+        "CI",
+        "DBMS",
         "~",
-        "SE",
-        "DS",
-        "DMS"
+        "MAT",
+        "OS",
+        "COA"
     ],
     "Tue": [
-        "PE",
-        "DMS",
-        "LSD",
+        "OS",
+        "COA",
+        "MAT",
         "~",
-        "DS",
-        "OOP",
-        "LAB"
+        "OS",
+        "DBMS",
+        "CI"
     ],
     "Wed": [
-        "LSD",
-        "DMS",
-        "DS",
+        "OS",
+        "DL",
+        "LAB",
         "~",
-        "OOP",
-        "SE",
-        "OOP"
+        "COA",
+        "MAT",
+        "DBMS"
     ],
     "Thu": [
-        "DS",
-        "LSD",
-        "OOP",
+        "OS",
+        "DL",
+        "LAB",
         "~",
-        "PE",
+        "DE",
         "MNR",
         "RMD"
     ],
