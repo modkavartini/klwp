@@ -1,47 +1,47 @@
 {
     "Mon": [
-        "DE",
-        "CI",
-        "DBMS",
+        "DBMSL",
+        "DBMSL",
+        "DBMSL",
         "~",
-        "MAT",
-        "OS",
-        "COA"
+        "SS",
+        "CN",
+        "MSS"
     ],
     "Tue": [
-        "OS",
-        "COA",
-        "MAT",
+        "CN",
+        "MSS",
+        "CN",
         "~",
-        "OS",
-        "DBMS",
-        "CI"
+        "MSS",
+        "FLAT",
+        "HNRS"
     ],
     "Wed": [
-        "OS",
-        "DL",
-        "LAB",
+        "SS",
+        "MPMC",
+        "DM",
         "~",
-        "COA",
-        "MAT",
-        "DBMS"
+        "FLAT",
+        "SS",
+        "HNRS"
     ],
     "Thu": [
-        "OS",
-        "DL",
-        "LAB",
+        "FLAT",
+        "MPMC",
+        "HNRS",
         "~",
-        "DE",
-        "MNR",
-        "RMD"
+        "MPMCL",
+        "MPMCL",
+        "MPMCL"
     ],
     "Fri": [
-        "DBMS",
-        "COA",
-        "MAT",
+        "DM",
+        "FLAT",
+        "SS",
         "~",
-        "OS",
-        "MNR",
-        "RMD"
+        "CN",
+        "MPMC",
+        "MPMC"
     ]
 }
