@@ -1,8 +1,8 @@
 {
     "Mon": [
-        "DBMSL",
-        "DBMSL",
-        "DBMSL",
+        "DBL",
+        "DBL",
+        "DBL",
         "~",
         "SS",
         "CN",
@@ -31,9 +31,9 @@
         "MPMC",
         "HNRS",
         "~",
-        "MPMCL",
-        "MPMCL",
-        "MPMCL"
+        "MPL",
+        "MPL",
+        "MPL"
     ],
     "Fri": [
         "DM",
