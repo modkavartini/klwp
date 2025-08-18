@@ -1,47 +1,47 @@
 {
     "Mon": [
-        "DS",
-        "OOP",
+        "SS",
+        "MSS",
+        "FLAT",
+        "~",
         "LAB",
-        "~",
-        "SE",
-        "DS",
-        "MAT"
-    ],
-    "Tue": [
-        "PE",
-        "MAT",
-        "LSD",
-        "~",
-        "DS",
-        "OOP",
+        "LAB",
         "LAB"
     ],
-    "Wed": [
-        "LSD",
-        "MAT",
-        "DS",
+    "Tue": [
+        "LAB",
+        "LAB",
+        "LAB",
         "~",
-        "OOP",
-        "SE",
-        "OOP"
+        "MPMC",
+        "DM",
+        "HNRS"
+    ],
+    "Wed": [
+        "MSS",
+        "SS",
+        "CN",
+        "~",
+        "CN",
+        "MPMC",
+        "HNRS"
     ],
     "Thu": [
-        "DS",
-        "LSD",
-        "OOP",
+        "DM",
+        "MPMC",
+        "HNRS",
         "~",
-        "PE",
-        "MNR",
-        "RMD"
+        "SS",
+        "CN",
+        "FLAT"
     ],
     "Fri": [
-        "LSD",
-        "OOP",
-        "DS",
+        "FLAT",
+        "CN",
+        "FLAT",
         "~",
-        "MAT",
-        "MNR",
-        "RMD"
+        "SS",
+        "MPMC",
+        "MSS"
     ]
 }
