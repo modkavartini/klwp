@@ -1,1 +1,47 @@
-
+{
+    "Mon": [
+        "DSA",
+        "EESD",
+        "DE",
+        "~",
+        "OOP",
+        "TOC",
+        "TOC"
+    ],
+    "Tue": [
+        "TOC",
+        "MAT",
+        "DSA",
+        "~",
+        "LAB",
+        "LAB",
+        "LAB"
+    ],
+    "Wed": [
+        "EESD",
+        "TOC",
+        "DSA",
+        "~",
+        "MAT",
+        "OOP",
+        "DE"
+    ],
+    "Thu": [
+        "LAB",
+        "LAB",
+        "LAB",
+        "~",
+        "DE",
+        "DSA",
+        "MIN"
+    ],
+    "Fri": [
+        "OOP",
+        "DE",
+        "MAT",
+        "~",
+        "OOP",
+        "MIN",
+        "MIN"
+    ]
+}
