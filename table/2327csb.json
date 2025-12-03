@@ -1,47 +1,47 @@
 {
     "Mon": [
-        "DBL",
-        "DBL",
-        "DBL",
+        "ELC",
+        "CD",
+        "CGIP",
         "~",
-        "SS",
-        "CN",
-        "MSS"
+        "LAB",
+        "LAB",
+        "LAB"
     ],
     "Tue": [
-        "CN",
-        "MSS",
-        "CN",
+        "CD",
+        "AAD",
+        "ELC",
         "~",
-        "MSS",
-        "FLAT",
+        "CGIP",
+        "HNRS",
         "HNRS"
     ],
     "Wed": [
-        "SS",
-        "MPMC",
-        "DM",
+        "CGIP",
+        "CD",
+        "CCW",
         "~",
-        "FLAT",
-        "SS",
+        "AAD",
+        "IEFT",
         "HNRS"
     ],
     "Thu": [
-        "FLAT",
-        "MPMC",
-        "HNRS",
+        "LAB",
+        "LAB",
+        "LAB",
         "~",
-        "MPL",
-        "MPL",
-        "MPL"
+        "ELC",
+        "IEFT",
+        "U"
     ],
     "Fri": [
-        "DM",
-        "FLAT",
-        "SS",
+        "IEFT",
+        "AAD",
+        "AAD",
         "~",
-        "CN",
-        "MPMC",
-        "MPMC"
+        "CD",
+        "CGIP",
+        "HNRS"
     ]
 }
