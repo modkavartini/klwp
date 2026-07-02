@@ -1,47 +1,47 @@
 {
     "Mon": [
-        "ELC",
-        "CD",
-        "CGIP",
+        "AI",
+        "U",
+        "O.EL",
         "~",
-        "LAB",
-        "LAB",
-        "LAB"
+        "SMR",
+        "SMR",
+        "SMR"
     ],
     "Tue": [
-        "CD",
-        "AAD",
-        "ELC",
+        "LAB",
+        "LAB",
+        "LAB",
         "~",
-        "CGIP",
-        "HNRS",
-        "HNRS"
+        "ISE",
+        "ELEC",
+        "O.EL"
     ],
     "Wed": [
-        "CGIP",
-        "CD",
-        "CGIP",
+        "ELEC",
+        "AI",
+        "O.EL",
         "~",
-        "AAD",
-        "IEFT",
-        "HNRS"
+        "U",
+        "RMH",
+        "RMH"
     ],
     "Thu": [
-        "LAB",
-        "LAB",
-        "LAB",
+        "AI",
+        "PROJ",
+        "PROJ",
         "~",
-        "ELC",
-        "IEFT",
+        "U",
+        "ISE",
         "U"
     ],
     "Fri": [
-        "AAD",
-        "CD",
-        "AAD",
+        "LAB",
+        "LAB",
+        "LAB",
         "~",
-        "IEFT",
-        "CCW",
-        "HNRS"
+        "ISE",
+        "ELEC",
+        "U"
     ]
 }
